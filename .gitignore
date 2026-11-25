@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets and local config
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Large generated files (share these another way)
+faiss_index/
