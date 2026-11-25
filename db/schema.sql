@@ -1,0 +1,2 @@
+-- PostgreSQL schema: core business tables.
+-- Owner: Ahmed Shawly

@@ -1,0 +1,2 @@
+-- Extra tables: forecasts, recommendations, approvals, audit_logs, chat tables, rules.
+-- Owner: Ahmed Shawly + Karim
